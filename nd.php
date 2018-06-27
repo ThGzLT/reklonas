@@ -12,4 +12,5 @@
 echo "hello world";
 echo "hello world 2x";
 echo "hello world vienas world";
+echo "trecias pakeitimas";
 ?>
